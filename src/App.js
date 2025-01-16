@@ -1,9 +1,6 @@
 import React from "react";
-import Button from './even-class'
+import {Calculator2} from './calculator'
 
-function App() {
-  
-  return <Button/>
+export default function App(){
+  return <Calculator2/>
 }
-
-export default App;
